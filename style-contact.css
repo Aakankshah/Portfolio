@@ -1,0 +1,18 @@
+#contact{
+    padding:3rem;
+
+}
+.contact-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap:4rem;
+}
+.contact-links a{
+    text-decoration: none;
+}
+.contact-links i{
+    font-size: 2rem;
+    color: black;
+}
